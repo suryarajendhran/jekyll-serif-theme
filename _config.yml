@@ -1,14 +1,14 @@
-baseurl: ''
-exclude: ['README.md']
+baseurl: ""
+exclude: ["README.md"]
 permalink: pretty
-title: 'DebitDebited'
+title: "DebitDebited"
 
 google_analytics_id: null
 homepage:
   show_call_box: true
 logo:
   mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/logo.png"
   desktop_height: "36px"
 
 seo:
@@ -33,7 +33,7 @@ defaults:
       layout: service
       bodyClass: page-services-single
   - scope:
-      path: 'images'
+      path: "images"
     values:
       image: true
 

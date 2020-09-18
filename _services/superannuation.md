@@ -5,9 +5,7 @@ featured: true
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+A superannuation is an organizational pension program created by a company for the benefit of its employees. It is also referred to as a company pension plan. Funds deposited in a superannuation account will grow, typically without any tax implications, until retirement or withdrawal.
 
 ## Ne verba patulosque numen vix libet
 

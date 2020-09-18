@@ -5,11 +5,11 @@ featured: true
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+B2B e-commerce sales are expected to reach $1.8 trillion by 2023. For reference, that’s three times the $600 billion that B2C e-commerce sales are expected to hit by 2024.
+
+One of my earliest experiences in B2B sales was back in 2012 when I sold law services to small and medium-sized businesses (it was as exciting as it sounds).
+
+I’ve witnessed significant changes in the B2B sales process since then.
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas

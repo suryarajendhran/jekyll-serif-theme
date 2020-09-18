@@ -5,9 +5,7 @@ featured: true
 weight: 4
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+A merger is an agreement that unites two existing companies into one new company. There are several types of mergers and also several reasons why companies complete mergers. Mergers and acquisitions are commonly done to expand a company's reach, expand into new segments, or gain market share.
 
 ## Ne verba patulosque numen vix libet
 
@@ -22,7 +20,7 @@ male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 5. Ardua non igne caelesti coniugis cognovi diversorum
 6. Per nunc pariterque saeva vindicet
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
+Locus evicit **loquuntur Tyrrhena omnes**, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.

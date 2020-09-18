@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Jekyll Serif Theme
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+title: DebitDebited
+description: DebitDebited is a finance company dedicated to making your company debt-healthy!
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# DebitDebited helps you make your debt work for you
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Debt should work for you, not against. Whether you're taking the first loan for your business or you have 10 mortgages in 10 different states, we got your back!

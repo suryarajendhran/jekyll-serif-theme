@@ -5,10 +5,7 @@ featured: true
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+More often than not, the tax filing and income tax returns season is quite nerve-racking for both individual taxpayers as well as businesses. Most businesses fail to realize that having enough time for tax preparation allows them to put their documents in order, and reduce the overall chances of any errors from occurring.
 
 - Nata perque
 - Et ferrugine laedam
