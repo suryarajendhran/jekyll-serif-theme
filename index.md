@@ -1,7 +1,7 @@
 ---
 layout: home
 title: DebitDebited
-description: DebitDebited is a finance company dedicated to making your company debt-healthy!
+description: DebitDebited is a finance startup dedicated to making your company debt-healthy!!
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

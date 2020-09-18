@@ -16,7 +16,7 @@ seo:
   meta_og_type: "website"
   meta_og_url: "https://ddebited.whitefield.tech"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "DebitDebited is a finance company dedicated to making your company debt-healthy!"
+  meta_og_description: "DebitDebited is a finance startup dedicated to making your company debt-healthy!"
 
 collections:
   services:
